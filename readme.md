@@ -20,13 +20,13 @@ Timestamp Sync is a Python script for synchronizing and processing frames from m
 
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
 2. Install the required Python packages using pip:
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ## Usage
 
 1. Ensure that your cameras are connected and properly configured.
 2. Run the script:
-python main.py
+'''python main.py'''
 
 
 
